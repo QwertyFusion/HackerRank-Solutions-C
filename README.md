@@ -1,8 +1,12 @@
 # HackerRank-Solutions-C
 <p align="center">
     <img src="https://raw.github.com/QwertyFusion/HackerRank-Solutions-C/master/Images/HackerRank-Logo.png" alt="HackerRank Logo"/>
-    <img src="https://raw.github.com/QwertyFusion/HackerRank-Solutions-C/master/Images/HackerRank-C-Badge.png" alt="HackerRank C Badge" width="150"/>
     <br>HackerRank problem solutions for C Programming Topic.
+</p>
+
+## Badge Earned
+<p align="center">
+    <img src="https://raw.github.com/QwertyFusion/HackerRank-Solutions-C/master/Images/HackerRank-C-Badge.png" alt="HackerRank C Badge" width="150"/>
 </p>
 
 ## Content
