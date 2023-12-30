@@ -1,6 +1,6 @@
 # HackerRank-Solutions-C
 <p align="center">
-    <br>This repository contains LeetCode problems solutions.
+    <br>This repository contains HackerRank problem solutions for C Programming Topic.
 </p>
 
 ## Content
