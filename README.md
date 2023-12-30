@@ -6,7 +6,7 @@
 
 ## Badge Earned
 <p>
-    <img src="https://raw.github.com/QwertyFusion/HackerRank-Solutions-C/master/Images/HackerRank-C-Badge.png" alt="HackerRank C Badge" width="150"/>
+    <img src="https://raw.github.com/QwertyFusion/HackerRank-Solutions-C/master/Images/HackerRank-C-Badge.png" alt="HackerRank C Badge" width="80"/>
 </p>
 
 ## Content
@@ -39,7 +39,7 @@
 | 25 | [Structuring the Document](https://www.hackerrank.com/challenges/structuring-the-document/problem?isFullScreen=true) | [code](Solutions/structuring-the-document.c) |
 
 ## Programming language used :-
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="80" height="80"/> </a>
 
 ## Developer
 *   [@QwertyFusion](https://github.com/QwertyFusion)
