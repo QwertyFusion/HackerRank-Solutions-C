@@ -5,7 +5,7 @@
 </p>
 
 ## Badge Earned
-<p align="center">
+<p>
     <img src="https://raw.github.com/QwertyFusion/HackerRank-Solutions-C/master/Images/HackerRank-C-Badge.png" alt="HackerRank C Badge" width="150"/>
 </p>
 
