@@ -24,7 +24,7 @@
 | 16 | [Calculate the Nth term](https://www.hackerrank.com/challenges/recursion-in-c/problem?isFullScreen=true) | [code](Solutions/recursion-in-c.c) |
 | 17 | [Students Marks Sum](https://www.hackerrank.com/challenges/students-marks-sum/problem?isFullScreen=true) | [code](Solutions/students-marks-sum.c) |
 | 18 | [Sorting Array of Strings](https://www.hackerrank.com/challenges/sorting-array-of-strings/problem?isFullScreen=true) | [code](Solutions/sorting-array-of-strings.c) |
-| 19 | [Permutations of Strings](https://www.hackerrank.com/challenges/permutations-of-strings/problem?isFullScreen=true) | [code](Solutions/permutations-of-strings.c) |
+| 19 | [Permutations of Strings](https://www.hackerrank.com/challenges/permutations-of-strings/problem?isFullScreen=true) | [code](Solutions/permutation-of-strings.c) |
 | 20 | [Variadic functions in C](https://www.hackerrank.com/challenges/variadic-functions-in-c/problem?isFullScreen=true) | [code](Solutions/variadic-functions-in-c.c) |
 | 21 | [Querying the Document](https://www.hackerrank.com/challenges/querying-the-document/problem?isFullScreen=true) | [code](Solutions/querying-the-document.c) |
 | 22 | [Boxes through a Tunnel](https://www.hackerrank.com/challenges/too-high-boxes/problem?isFullScreen=true) | [code](Solutions/too-high-boxes.c) |
