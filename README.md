@@ -5,13 +5,13 @@
 
 # HackerRank-Solutions-C
 <p align="center">
-    <img src="https://raw.github.com/QwertyFusion/HackerRank-Solutions-C/master/Images/HackerRank-Logo.png" alt="HackerRank Logo"/>
+    <a href="https://www.hackerrank.com/rishibanerjee10"><img src="https://raw.github.com/QwertyFusion/HackerRank-Solutions-C/master/Images/HackerRank-Logo.png" alt="HackerRank Logo"/>
     <br>HackerRank problem solutions for C Programming Topic.
 </p>
 
 ## Badge Earned
 <p>
-    <img src="https://raw.github.com/QwertyFusion/HackerRank-Solutions-C/master/Images/HackerRank-C-Badge.png" alt="HackerRank C Badge" width="80"/>
+    <img src="https://hrcdn.net/community-frontend/assets/brand/logo-new-white-green-a5cb16e0ae.svg" alt="HackerRank C Badge" width="80"/>
 </p>
 
 ## Content
