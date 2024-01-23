@@ -1,3 +1,8 @@
+![GitHub](https://img.shields.io/github/license/QwertyFusion/HackerRank-Solutions-C.svg?style=flat&color=brightgreen)
+![GitHub top language](https://img.shields.io/github/languages/top/QwertyFusion/HackerRank-Solutions-C.svg?style=flat&color=brightgreen)
+![GitHub last commit](https://img.shields.io/github/last-commit/QwertyFusion/HackerRank-Solutions-C.svg?style=flat&color=brightgreen)
+![ViewCount](https://views.whatilearened.today/views/github/QwertyFusion/HackerRank-Solutions-C.svg?style=flatat&color=brightgreen)
+
 # HackerRank-Solutions-C
 <p align="center">
     <img src="https://raw.github.com/QwertyFusion/HackerRank-Solutions-C/master/Images/HackerRank-Logo.png" alt="HackerRank Logo"/>
